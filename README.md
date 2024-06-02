@@ -22,7 +22,7 @@ Others: HTML, CSS, Bootstrap
 
 📂 Featured Projects:
 
-Student Management System: Welcome to the Student Management System! This comprehensive project is built using Python and Django for the backend, with HTML, CSS, and JavaScript for the frontend. 
+School Management System: Welcome to the Student Management System! This comprehensive project is built using Python and Django for the backend, with HTML, CSS, and JavaScript for the frontend. 
 The system supports three distinct user roles: Admin, Teacher, and Student. Each role has its unique functionalities, providing a robust platform for managing student data, attendance, and fees.
 
 🚀 Project Overview
@@ -75,7 +75,7 @@ User Roles:
 
 
 📂 Project Structure
-   student_management/: Django project directory.
+   school_management_system/: Django project directory.
    settings.py: Configuration settings.
    urls.py: URL routing.
    wsgi.py: Web server gateway interface configuration.
